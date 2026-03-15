@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "indo3-5h",
+    "browserPath": "/",
+    "targetHost": "indo8.vpnjantit.com",
+    "targetPort": "4443",
+    "targetPath": "/trojan"
+  }
+]
